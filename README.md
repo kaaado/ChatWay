@@ -2,7 +2,7 @@
 
 This simple repo shows how to easily add chat functionality into a React project with [Chat Engine](https://chatengine.io).
 
-**You can choose netween 2 layer of Chat Page,  ChatPage.jsx or ChatPage1.jsx ,just the chosen one named 'ChatPage.jsx'**
+**You can choose between 2 layer of Chat Page,  ChatPage.jsx or ChatPage1.jsx ,just the chosen one named 'ChatPage.jsx'**
 ## Setup Steps
 
 Setup this chat client in 3 steps below.
