@@ -1,6 +1,6 @@
-# Connect React to Chat Engine!
+# Connect Vite to Chat Engine!
 
-This simple repo shows how to easily add chat functionality into a React project with [Chat Engine](https://chatengine.io).
+This simple repo shows how to easily add chat functionality into a Vite project with [Chat Engine](https://chatengine.io).
 
 **You can choose between 2 layer of Chat Page,  ChatPage.jsx or ChatPage1.jsx ,just the chosen one named 'ChatPage.jsx'**
 ## Setup Steps
